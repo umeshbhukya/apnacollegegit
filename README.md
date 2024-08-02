@@ -1,2 +1,2 @@
 # apnacollegegit
-creating the local repo along with the files and cloning with the git
+creating the local repo along with the files <br> cloning with the git
